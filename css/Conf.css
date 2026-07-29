@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/*reset*/
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+/* variaveis */
+:root{
+/*Fundo principal.*/
+    --background:#000000; 
+    --background-light:#48454C;  
+/*Textos secundários e detalhes.*/
+    --suport:#1D1B20; 
+    --suport-ligth: #283845 ;
+/*Botões, links importantes e efeitos de destaque.*/
+    --accent:#FFA649; 
+}
