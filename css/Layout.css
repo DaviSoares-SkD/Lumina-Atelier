@@ -14,11 +14,12 @@ body{
     
 }
 */
-.title{
-    font-size: clamp(1.2rem, 2vw, 2rem);
+.title{ 
+    font-size: clamp(2.8rem, 4.5vw, 5.5rem);
     font-family: "Chorus";
+    font-weight: 100;
 }
 .subtitle{
-    font-size: clamp(0.8rem, 1.5vw, 1.8rem);
+    font-size: clamp(1rem, 1.5vw, 1.8rem);
     font-family: 'Syne';
 }
