@@ -2,7 +2,7 @@
 @font-face {
     font-family: "Chorus";
     src: url("../fonts/CHORUS-BLACK.otf") format("opentype");
-    font-weight: normal;
+    font-weight: 900;
     font-style: normal;
 }
 /*reset*/
